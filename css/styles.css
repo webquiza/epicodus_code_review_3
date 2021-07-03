@@ -1,0 +1,13 @@
+body {
+  background-color: #669bbc;
+}
+
+.text {
+  color: #fdf0d5;
+  padding: 15px;
+}
+
+.center, .button {
+  text-align: center;
+  padding: 20px;
+}
