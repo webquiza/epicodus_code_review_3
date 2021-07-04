@@ -55,7 +55,7 @@ Expected Output: "0, Beep!, Boop!, Won't you be my neighbor?"
 
 ## Known Bugs
 
-* _No known issues._
+* _If output is already shown then user clicks the submit button without first entering a number, the output solid border remains visible on the front end._
 
 ## License
 
