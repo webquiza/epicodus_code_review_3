@@ -30,6 +30,8 @@ $(function() {
     const talk = roboTalk(number);
   
     $("#userResults").text(talk); 
+
+    $("#output").show();
     
     // reset form field to initial value
     $("form#intakeForm").trigger('reset');                                 
