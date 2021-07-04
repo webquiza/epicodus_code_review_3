@@ -12,6 +12,8 @@ function roboTalk(input) {
       userNumber[i] = " Won't you be my neighbor?";
     } else if (userNumber[i].includes("2")) {
       userNumber[i] = " Boop!";
+    } else if (userNumber[i].includes("1")) {
+      userNumber[i] = " Beep!";
     }
   }
   return userNumber;
